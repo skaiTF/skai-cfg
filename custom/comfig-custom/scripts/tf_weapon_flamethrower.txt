@@ -58,7 +58,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/crosshair5OL"
+			"file" "vgui/replay/thumbnails/tob_YZ"
 			"x" "0"
 			"y" "0"
 			"width" "64"

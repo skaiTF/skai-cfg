@@ -57,7 +57,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/crosshair5OL"
+			"file" "vgui/replay/thumbnails/cpma_15"
 			"x" "0"
 			"y" "0"
 			"width" "64"
@@ -70,6 +70,14 @@
 			"y" "48"
 			"width" "24"
 			"height" "24"
+		}
+		"zoom"
+		{
+			"file" "vgui/replay/thumbnails/sniperOL"
+			"x" "0"
+			"y" "0"
+			"width" "64"
+			"height" "64"
 		}
 	}
 	"classname" "tf_weapon_sniperrifle_decap"

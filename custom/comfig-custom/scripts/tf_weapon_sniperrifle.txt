@@ -57,7 +57,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/ql_2"
+			"file" "vgui/replay/thumbnails/sniperOL"
 			"x" "0"
 			"y" "0"
 			"width" "64"

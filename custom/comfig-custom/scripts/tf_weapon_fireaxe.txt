@@ -50,7 +50,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/sniperOL"
+			"file" "vgui/replay/thumbnails/xhairshadowdots"
 			"x" "0"
 			"y" "0"
 			"width" "64"
